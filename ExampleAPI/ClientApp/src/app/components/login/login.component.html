@@ -1,0 +1,13 @@
+<div >
+  <form [formGroup]="form">
+    <div>
+      <input formControlName="username" type="text" placeholder="Username" required>
+    </div>
+    <div>
+      <input formControlName="password" type="password" placeholder="Password" required>
+    </div>
+    <div>
+      <button (click)="login(this.form)">clique em  mim</button>
+    </div>
+  </form>
+</div>
