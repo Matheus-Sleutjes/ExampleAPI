@@ -14,28 +14,24 @@ export class LoginComponent implements OnInit {
     private loginService: LoginService,
     private formBuilder: FormBuilder,
     private router: Router,
-    ) { }
+  ) { }
 
   ngOnInit(): void {
     this.form = this.formBuilder.group({
       username: new FormControl(null, [Validators.required]),
       password: new FormControl(null, [Validators.required]),
     })
-
   }
 
-  login(form: any){
-    console.log(form)
-     this.loginService.login(form.controls.values).subscribe(result =>{
-      if(result){
+  onLogin() {
+    this.loginService.login(this.form.value).subscribe(result => {
+      if (result) {
         this.onRedirect("home");
-        console.log("login")
       }
     });
   }
 
-  onRedirect(rota: string){
+  onRedirect(rota: string) {
     this.router.navigateByUrl(rota);
   }
-
 }

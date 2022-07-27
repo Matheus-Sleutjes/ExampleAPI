@@ -208,19 +208,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\41404141898\\.nuget\\packages\\": {}
+    "C:\\Users\\Matheus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ExampleAPI\\ExampleAPI\\ExampleAPI\\ExampleAPI.csproj",
+      "projectUniqueName": "C:\\Projetos\\ExampleAPI\\ExampleAPI\\ExampleAPI\\ExampleAPI.csproj",
       "projectName": "ExampleAPI",
-      "projectPath": "C:\\ExampleAPI\\ExampleAPI\\ExampleAPI\\ExampleAPI.csproj",
-      "packagesPath": "C:\\Users\\41404141898\\.nuget\\packages\\",
-      "outputPath": "C:\\ExampleAPI\\ExampleAPI\\ExampleAPI\\obj\\",
+      "projectPath": "C:\\Projetos\\ExampleAPI\\ExampleAPI\\ExampleAPI\\ExampleAPI.csproj",
+      "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\ExampleAPI\\ExampleAPI\\ExampleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\41404141898\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -269,7 +269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
