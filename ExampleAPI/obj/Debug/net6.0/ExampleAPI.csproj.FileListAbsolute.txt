@@ -64,3 +64,10 @@ C:\Projetos\ExampleAPI\ExampleAPI\ExampleAPI\obj\Debug\net6.0\refint\ExampleAPI.
 C:\Projetos\ExampleAPI\ExampleAPI\ExampleAPI\obj\Debug\net6.0\ExampleAPI.pdb
 C:\Projetos\ExampleAPI\ExampleAPI\ExampleAPI\obj\Debug\net6.0\ExampleAPI.genruntimeconfig.cache
 C:\Projetos\ExampleAPI\ExampleAPI\ExampleAPI\obj\Debug\net6.0\ref\ExampleAPI.dll
+C:\Projetos\ExampleApi\ExampleAPI\ExampleAPI\bin\Debug\net6.0\spa.proxy.json
+C:\Projetos\ExampleApi\ExampleAPI\ExampleAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Projetos\ExampleApi\ExampleAPI\ExampleAPI\obj\Debug\net6.0\spa.proxy.json
+C:\Projetos\ExampleApi\ExampleAPI\ExampleAPI\bin\Debug\net6.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Projetos\ExampleApi\ExampleAPI\ExampleAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Projetos\ExampleApi\ExampleAPI\ExampleAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Projetos\ExampleApi\ExampleAPI\ExampleAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
