@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.SpaServices.AngularCli;
-
+﻿
 namespace ExampleAPI
 {
     public class Startup
@@ -30,15 +29,7 @@ namespace ExampleAPI
             app.UseAuthorization();
             app.MapRazorPages();
             app.Run();
-            app.UseSpa(spa =>
-            {
-                spa.Options.SourcePath = "ClientApp";
-
-                //if (env.IsDevelopment())
-                //{
-                    spa.UseAngularCliServer(npmScript: "start");
-                //}
-            });
+            
         }
     }
 }

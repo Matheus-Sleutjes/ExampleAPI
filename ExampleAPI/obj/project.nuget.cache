@@ -1,36 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LQMgzSXz+iTdEdSbXr+iRWbDuv5xcHdKT7y5cXDK9x68yT1sHZr+CJr9Phpxr9tJkKe3foTPXJ0jNYoc1c0Q9A==",
+  "dgSpecHash": "UwZChzm5mzgdVvD1qV5UkfJuoCgVzWwujHvvFpdaB/NHCT73jkN912Iild7l9qzlNDtKBwboh+j1UkDbbeFwFw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ExampleApi\\ExampleAPI\\ExampleAPI\\ExampleAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.27\\microsoft.aspnetcore.nodeservices.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.7\\microsoft.aspnetcore.spaproxy.6.0.7.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.27\\microsoft.aspnetcore.spaservices.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.7\\microsoft.aspnetcore.spaservices.extensions.6.0.7.nupkg.sha512",
     "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.27\\microsoft.extensions.configuration.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.27\\microsoft.extensions.configuration.abstractions.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.27\\microsoft.extensions.configuration.binder.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.27\\microsoft.extensions.dependencyinjection.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.27\\microsoft.extensions.dependencyinjection.abstractions.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.logging\\3.1.27\\microsoft.extensions.logging.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.27\\microsoft.extensions.logging.abstractions.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.27\\microsoft.extensions.logging.configuration.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.27\\microsoft.extensions.logging.console.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.options\\3.1.27\\microsoft.extensions.options.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.27\\microsoft.extensions.options.configurationextensions.3.1.27.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\41404141898\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\41404141898\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\41404141898\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\41404141898\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "C:\\Users\\41404141898\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\41404141898\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
