@@ -2,11 +2,13 @@
   <form class="container" [formGroup]="form" (ngSubmit)="onLogin()">
     <div class="card">
       <h2>Login</h2>
+      <label class="label-text" for="">Email</label>
       <div class="div">
-        <input formControlName="username" type="text" placeholder="Username" required>
+        <input formControlName="username" type="text" placeholder="email@gmail.com" required>
       </div>
+      <label>Password</label>
       <div class="div">
-        <input formControlName="password" type="password" placeholder="Password" required>
+        <input formControlName="password" type="password" placeholder="*******" required>
       </div>
       <div>
         <button type="submit" class="btn btn-dark">Entrar</button>
