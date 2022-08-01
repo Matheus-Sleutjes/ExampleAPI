@@ -17,10 +17,9 @@ namespace ExampleAPI.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] LoginModel login)
         {
-            if(login == null)
+            if(login.Password == "admin" && login.Username == "admin")
+                return Ok(true);
             return BadRequest(false);
-
-            return Ok(true);
         }
     }
 }

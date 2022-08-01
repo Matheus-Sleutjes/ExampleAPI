@@ -25,7 +25,7 @@ export class LoginComponent implements OnInit {
 
   onLogin() {
     this.loginService.login(this.form.value).subscribe(result => {
-      if (result) {
+      if (result == true) {
         this.onRedirect("home");
       }
     });
