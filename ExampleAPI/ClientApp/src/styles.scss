@@ -1,4 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 @import "../node_modules/bootstrap/scss/bootstrap";
-
 @import "app/app.component.scss";
+$primary-color: "#2C3333";
+$secundary-color: "#395B64";
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    background: #E8E8E8;
+}

@@ -1,14 +1,15 @@
 <div class="row">
-  <form [formGroup]="form" (ngSubmit)="onLogin()">
+  <form class="container" [formGroup]="form" (ngSubmit)="onLogin()">
     <div class="card">
-      <div>
+      <h2>Login</h2>
+      <div class="div">
         <input formControlName="username" type="text" placeholder="Username" required>
       </div>
-      <div>
+      <div class="div">
         <input formControlName="password" type="password" placeholder="Password" required>
       </div>
       <div>
-        <button type="submit">clique em mim</button>
+        <button type="submit" class="btn btn-dark">Entrar</button>
       </div>
     </div>
   </form>

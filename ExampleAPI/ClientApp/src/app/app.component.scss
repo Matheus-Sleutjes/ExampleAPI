@@ -1,9 +1,15 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
+.container{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
-.body{
-    max-height: 100vh;
-    max-width: 100vh;
-    width: 100%;
-    height: 100%;
+.card {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 10px;
+    border: none;
+}
+.div{
+    margin-bottom: 5px;
 }
